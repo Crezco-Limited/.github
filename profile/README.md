@@ -1,6 +1,6 @@
 # Hi we’re Crezco! 👋
 
-Hello we’re Crezco. We’re a startup focussed on making payments easy, we build cardless solutions, you can find out more about us at [crezco.com].
+Hello we’re Crezco. We’re a startup focused on making payments easy, we build cardless solutions, you can find out more about us at [crezco.com].
 
 This is our github organisation, there’s not much to see here but behind the scenes this is where a development team store all our application code.
 
