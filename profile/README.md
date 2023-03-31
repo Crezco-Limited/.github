@@ -6,5 +6,5 @@ This is our github organisation, there’s not much to see here but behind the s
 
 If you’re interested in working with us head over to our [careers page].
 
-[crezco.com](https://www.crezco.com/)
-[careers page]:(https://crezco.notion.site/crezco/Careers-at-Crezco-c0305bcc774844e69c00506454b4b7c0)
+[crezco.com]:https://www.crezco.com/
+[careers page]:https://crezco.notion.site/crezco/Careers-at-Crezco-c0305bcc774844e69c00506454b4b7c0
